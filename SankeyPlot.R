@@ -4,9 +4,9 @@ nodes = data.frame("name" =
                      c("Total", "Cash", "Pos", "p2p", "1off","Cash", "Pos", "p2p", "1off", 
                        "Cash", "Pos", "p2p", "Cash", "Pos", "p2p", "2 off", "Cash", "Pos",
                        "p2p", "2 off", "Cash", "Pos", "p2p", "2 off", "Cash", "Pos", 
-					   "p2p", "2 off", "Cash", "Pos", "p2p", "2 off", "Cash", "Pos", 
-					   "p2p", "2 off", "Cash", "Pos", "p2p", "2 off", "Cash", "Pos", 
-					   "p2p", "2off", "Cash","Pos", "p2p", "Cash", "Pos", "p2p"))
+		       "p2p", "2 off", "Cash", "Pos", "p2p", "2 off", "Cash", "Pos", 
+	               "p2p", "2 off", "Cash", "Pos", "p2p", "2 off", "Cash", "Pos", 
+		       "p2p", "2off", "Cash","Pos", "p2p", "Cash", "Pos", "p2p"))
 
 links = as.data.frame(matrix(c(
   0, 1, 80, 1,
